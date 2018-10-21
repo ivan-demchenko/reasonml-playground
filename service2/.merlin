@@ -1,0 +1,17 @@
+####{BSB GENERATED: NO EDIT
+B lib/bs
+FLG -open WebServer
+FLG -ppx /Users/ivandemchenko/Projects/_experiments/reasonml/web-server/service2/node_modules/bs-platform/lib/bsppx.exe
+S /Users/ivandemchenko/Projects/_experiments/reasonml/web-server/service2/node_modules/bs-platform/lib/ocaml
+B /Users/ivandemchenko/Projects/_experiments/reasonml/web-server/service2/node_modules/bs-platform/lib/ocaml
+FLG -nostdlib -color always
+FLG -w -30-40+6+7+27+32..39+44+45+101
+S /Users/ivandemchenko/Projects/_experiments/reasonml/web-server/service2/node_modules/bs-express/lib/ocaml
+B /Users/ivandemchenko/Projects/_experiments/reasonml/web-server/service2/node_modules/bs-express/lib/ocaml
+S /Users/ivandemchenko/Projects/_experiments/reasonml/web-server/service2/node_modules/bs-axios/lib/ocaml
+B /Users/ivandemchenko/Projects/_experiments/reasonml/web-server/service2/node_modules/bs-axios/lib/ocaml
+S /Users/ivandemchenko/Projects/_experiments/reasonml/web-server/service2/node_modules/@glennsl/bs-json/lib/ocaml
+B /Users/ivandemchenko/Projects/_experiments/reasonml/web-server/service2/node_modules/@glennsl/bs-json/lib/ocaml
+S src
+B lib/bs/src
+####BSB GENERATED: NO EDIT}
